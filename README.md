@@ -1,6 +1,6 @@
 <div align="left" style="display: flex; align-items: center;">
   <h1 style="margin-right: 10px;">PG'S universe</h1>
-  <img src="https://count.getloli.com/get/@:pierregab" alt=":pierregab" />
+  <img src="https://count.getloli.com/get/@:pierregab?theme=asoul" alt=":pierregab" />
 </div>
 
 ###
