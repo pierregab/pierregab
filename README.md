@@ -1,4 +1,7 @@
-<h1 align="left">PG'S universe</h1>
+<div align="left" style="display: flex; align-items: center;">
+  <h1 style="margin-right: 10px;">PG'S universe</h1>
+  <img src="https://count.getloli.com/get/@:pierregab" alt=":pierregab" />
+</div>
 
 ###
 
@@ -41,8 +44,6 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=mf0lk2u6yf0ohrpblor4tujp9&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-<img src="https://count.getloli.com/get/@:pierregab" alt=":pierregab" />
 
 
 ###
