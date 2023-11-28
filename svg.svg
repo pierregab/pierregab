@@ -1,0 +1,13 @@
+<svg width="500px" height="300px" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <!-- Your HTML and CSS go here -->
+            <style>
+                .clipped-image {
+                    clip-path: inset(0 0 0 50px); /* Adjust clipping here */
+                }
+            </style>
+            <img src="https://count.getloli.com/get/@:pierregab?theme=asoul" alt=":pierregab" class="clipped-image"/>
+        </div>
+    </foreignObject>
+</svg>
