@@ -4,7 +4,7 @@
             <!-- Your HTML and CSS go here -->
             <style>
                 .clipped-image {
-                    clip-path: inset(0 0 0 50px); /* Adjust clipping here */
+                    clip-path: inset(0 0 0 0px); /* Adjust clipping here */
                 }
             </style>
             <img src="https://count.getloli.com/get/@:pierregab?theme=asoul" alt=":pierregab" class="clipped-image"/>
