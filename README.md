@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">📚 Currently studying at Télécom Physique Strasbourg<br>🎯 Goals: Doing Astrophysics<br>🎲 Fun fact: I collect city pop vinyls</p>
+<p align="left">📚 Currently studying at the Observatoire de Strasbourg (M2 student)<br>🎲 Fun fact: I collect city pop vinyls</p>
 
 ###
 
