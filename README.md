@@ -1,5 +1,5 @@
 <div align="left" style="display: flex; align-items: center;">
-  <h1 style="margin-right: 10px;">PG'S universe</h1>
+  <h1 style="margin-right: 10px;"></h1>
   <img src="https://count.getloli.com/get/@:pierregab?theme=asoul" alt=":pierregab" />
 </div>
 
@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">📚 Currently studying at the Observatoire de Strasbourg (M2 student)<br>🎲 Fun fact: I collect city pop vinyls</p>
+<p align="left"> M2 in astrophysics and data science <br>🎲 Fun fact: I collect city pop vinyls</p>
 
 ###
 
