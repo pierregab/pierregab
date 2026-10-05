@@ -37,13 +37,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/mf0lk2u6yf0ohrpblor4tujp9">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mf0lk2u6yf0ohrpblor4tujp9&count=2&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
 
 ###
