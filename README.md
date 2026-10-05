@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">My name is Pierre Gabriel, currently based in Strasbourg</p>
+<p align="left"></p>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left"> M2 in astrophysics and data science <br>🎲 Fun fact: I collect city pop vinyls</p>
+<p align="left">PHD student at LIRA</p>
 
 ###
 
